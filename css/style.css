@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    border: 20px solid #800020;
+    width: 80%;
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 20px;
+
+    
+}
+
+.date{
+    color: #3498db;
+    text-transform: uppercase;
+    letter-spacing: 1.5rem;
+    padding-top: 20px;
+}
+h2{
+    font-size: 35px;
+    margin-top: 2%;
+}
+
+.quote{
+    border-left: 5px solid #bdc3c7;
+    padding-left: 10px;
+    margin-top: 2%;
+}
+
+hr{
+	background-color: #fff;
+    border-top: 2px dashed #8c8b8b;
+    
+}
+
+p{
+    line-height: 1.7em;
+    font-size: x-large;
+}
